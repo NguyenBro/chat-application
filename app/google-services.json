@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290051739011",
+    "firebase_url": "https://chatapp-ff2dd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatapp-ff2dd",
+    "storage_bucket": "chatapp-ff2dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290051739011:android:46897e1382412522e9fab6",
+        "android_client_info": {
+          "package_name": "hcmute.nhom1.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290051739011-sg88ddsb76ilv17t2f4i5j0sidc5u7ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSE3-Nkacyq4e-zOzCiL0Pu1BVxu6DsVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290051739011-sg88ddsb76ilv17t2f4i5j0sidc5u7ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
